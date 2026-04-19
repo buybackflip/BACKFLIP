@@ -33,12 +33,7 @@ It's not complicated. It's not supposed to be.
 
 ---
 
-## links
 
-- Twitter/X: [@buybackflip](#)
-- Telegram: [t.me/buybackflip](#)
-- Chart: [coming]
-- Contract: [TBA at launch]
 
 ---
 
