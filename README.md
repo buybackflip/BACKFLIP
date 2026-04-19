@@ -35,8 +35,8 @@ It's not complicated. It's not supposed to be.
 
 ## links
 
-- Twitter/X: [@backflipcoin](#)
-- Telegram: [t.me/backflipcoin](#)
+- Twitter/X: [@buybackflip](#)
+- Telegram: [t.me/buybackflip](#)
 - Chart: [coming]
 - Contract: [TBA at launch]
 
